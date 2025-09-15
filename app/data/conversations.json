@@ -1,0 +1,91 @@
+{
+  "topics": [
+    {
+      "slug": "travel",
+      "title": "Путешествия",
+      "intro": "Let's talk about travelling. What places inspire you?",
+      "hints": [
+        "You can mention countries, hotels or types of transport.",
+        "Try to use past tense to describe your latest trip."
+      ],
+      "responses": [
+        {
+          "keywords": ["plane", "flight", "airport", "aeroplane"],
+          "answer": "Flying can be both exciting and exhausting. Do you like long flights?"
+        },
+        {
+          "keywords": ["hotel", "hostel", "room"],
+          "answer": "Choosing the right hotel makes any journey better. What do you usually look for?"
+        },
+        {
+          "keywords": ["city", "country", "place", "visit"],
+          "answer": "There are so many beautiful places to explore. Which city is on your wish list?"
+        },
+        {
+          "keywords": ["beach", "sea", "ocean"],
+          "answer": "A day at the beach sounds relaxing! Do you prefer swimming or sunbathing?"
+        }
+      ],
+      "fallback": "Travelling teaches us a lot. Tell me what kind of adventure you enjoy.",
+      "closing": "Thanks for the chat about travelling!"
+    },
+    {
+      "slug": "food",
+      "title": "Еда",
+      "intro": "Food brings people together. What tastes do you enjoy?",
+      "hints": [
+        "Talk about your favourite dishes or the way you cook them.",
+        "Use adjectives such as sweet, spicy or fresh."
+      ],
+      "responses": [
+        {
+          "keywords": ["cook", "cooking", "recipe"],
+          "answer": "Cooking at home lets you experiment with flavours. What's your signature dish?"
+        },
+        {
+          "keywords": ["restaurant", "cafe", "dinner", "lunch"],
+          "answer": "Eating out can be a small celebration. Do you have a favourite restaurant?"
+        },
+        {
+          "keywords": ["sweet", "dessert", "cake"],
+          "answer": "I have a sweet tooth too! What's the best dessert you've ever tried?"
+        },
+        {
+          "keywords": ["spicy", "hot", "pepper"],
+          "answer": "Spicy food wakes you up instantly. How hot do you like your dishes?"
+        }
+      ],
+      "fallback": "Food memories are the best. Tell me more about flavours you love.",
+      "closing": "It was delicious to talk with you!"
+    },
+    {
+      "slug": "daily",
+      "title": "Повседневная жизнь",
+      "intro": "Let's practice daily small talk in English.",
+      "hints": [
+        "Mention your hobbies, work or how your day is going.",
+        "Use phrases like 'I'm interested in...' or 'I usually...'."
+      ],
+      "responses": [
+        {
+          "keywords": ["work", "job", "office", "career"],
+          "answer": "Work can be challenging. What helps you stay productive?"
+        },
+        {
+          "keywords": ["study", "learn", "learning", "course"],
+          "answer": "Learning something new keeps the mind sharp. What are you studying now?"
+        },
+        {
+          "keywords": ["hobby", "hobbies", "weekend"],
+          "answer": "Free time is precious. How do you spend your weekends?"
+        },
+        {
+          "keywords": ["family", "friends", "people"],
+          "answer": "Spending time with loved ones gives us energy. What do you do together?"
+        }
+      ],
+      "fallback": "Tell me more about your routine. I'm here to listen!",
+      "closing": "Let's continue our small talk next time!"
+    }
+  ]
+}
